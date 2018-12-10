@@ -12,3 +12,10 @@ D:\MachConnectorExample\obj\Debug\MachConnectorExample.csprojResolveAssemblyRefe
 D:\MachConnectorExample\obj\Debug\MachConnectorExample.csproj.CoreCompileInputs.cache
 D:\MachConnectorExample\obj\Debug\MachConnectorExample.exe
 D:\MachConnectorExample\obj\Debug\MachConnectorExample.pdb
+C:\Users\picdory\Downloads\CSharpConnector-master\CSharpConnector-master\obj\Debug\MachConnectorExample.csprojResolveAssemblyReference.cache
+C:\Users\picdory\Downloads\CSharpConnector-master\CSharpConnector-master\obj\Debug\MachConnectorExample.csproj.CoreCompileInputs.cache
+C:\Users\picdory\Downloads\CSharpConnector-master\CSharpConnector-master\obj\Debug\MachConnectorExample.pdb
+C:\Users\picdory\Downloads\CSharpConnector-master\CSharpConnector-master\bin\Debug\MachConnectorExample.exe
+C:\Users\picdory\Downloads\CSharpConnector-master\CSharpConnector-master\bin\Debug\MachConnectorExample.pdb
+C:\Users\picdory\Downloads\CSharpConnector-master\CSharpConnector-master\bin\Debug\machNetConnector.dll
+C:\Users\picdory\Downloads\CSharpConnector-master\CSharpConnector-master\obj\Debug\MachConnectorExample.exe

@@ -49,8 +49,8 @@
     <StartupObject>MachConnectorExample.MachConnectorExampleMain</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MachConnector">
-      <HintPath>.\MachConnector.dll</HintPath>
+    <Reference Include="machNetConnector">
+      <HintPath>.\machNetConnector.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
