@@ -1,7 +1,0 @@
-D:\MachConnectorExample\obj\Release\MachConnectorExample.csproj.CoreCompileInputs.cache
-D:\MachConnectorExample\bin\Release\MachConnectorExample.exe
-D:\MachConnectorExample\bin\Release\MachConnectorExample.pdb
-D:\MachConnectorExample\bin\Release\MachConnector.dll
-D:\MachConnectorExample\obj\Release\MachConnectorExample.exe
-D:\MachConnectorExample\obj\Release\MachConnectorExample.pdb
-D:\MachConnectorExample\obj\Release\MachConnectorExample.csprojResolveAssemblyReference.cache
